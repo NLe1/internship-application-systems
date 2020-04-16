@@ -1,5 +1,16 @@
 # Cloudflare Internship Application: Systems
 
+## Install and Run program
+Build the program
+```
+go build ping.go
+```
+
+Run with sudo
+```
+sudo ./ping -t 500 google.com
+```
+
 ## What is it?
 
 Please write a small Ping CLI application for MacOS or Linux.
@@ -47,3 +58,11 @@ You may use libraries (both built-in and installed via package managers) and sys
 1. Add support for both IPv4 and IPv6
 2. Allow to set TTL as an argument and report the corresponding "time exceeded” ICMP messages
 3. Any additional features listed in the ping man page or which you think would be valuable
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/nle1/)
+- [Portfolio](http://nhantle.com/)
+- [Devpost](https://devpost.com/nhan99dn)
+- [Leetcode](https://leetcode.com/nhan99dn/)
+- [Jumpstart](https://jumpstart.me/profile/nhan-le)
+- [Angelist](https://angel.co/nhan-le-10)
